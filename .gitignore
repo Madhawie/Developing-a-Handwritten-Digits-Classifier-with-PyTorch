@@ -1,0 +1,19 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model checkpoints
+*.pth
+*.pt
+
+# VS Code settings
+.vscode/
+
+# Other temporary or unnecessary files
+*.log
